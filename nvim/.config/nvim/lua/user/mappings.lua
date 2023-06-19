@@ -11,7 +11,7 @@ return {
     -- ["<leader>x"] = { "<cmd>lua print(\"hi\")<cr>", desc = "Test" },
     -- tables with the `name` key will be registered with which-key if it's installed
     -- this is useful for naming menus
-    ["<leader>b"] = { name = "Buffers" },
+    -- ["<leader>b"] = { name = "Buffers" },
     -- quick save
     -- ["<C-s>"] = { ":w!<cr>", desc = "Save File" },  -- change description but the same command
   },
